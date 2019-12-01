@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "명언제조기", "명언제조기\명언제조기.csproj", "{498B035E-5D67-47A3-BA1B-1A5CB2CDB782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498B035E-5D67-47A3-BA1B-1A5CB2CDB782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498B035E-5D67-47A3-BA1B-1A5CB2CDB782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498B035E-5D67-47A3-BA1B-1A5CB2CDB782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498B035E-5D67-47A3-BA1B-1A5CB2CDB782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3F8E6E-DBA8-4E9B-9D86-1064D81BEB7B}
+	EndGlobalSection
+EndGlobal

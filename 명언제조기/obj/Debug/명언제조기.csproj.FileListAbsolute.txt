@@ -1,0 +1,15 @@
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\bin\Debug\명언제조기.exe.config
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\bin\Debug\명언제조기.exe
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\bin\Debug\명언제조기.pdb
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.csprojAssemblyReference.cache
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form1.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Properties.Resources.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.csproj.GenerateResource.cache
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.csproj.CoreCompileInputs.cache
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.exe
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.pdb
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form2.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form3.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form4.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form5.resources
+C:\Users\BKBaik\source\repos\명언제조기\명언제조기\obj\Debug\명언제조기.Form6.resources
