@@ -24,7 +24,7 @@ namespace 명언제조기
 
             try
             {
-                File.AppendAllText(@"text2.txt", add+"\n", Encoding.Default);
+                File.AppendAllText(@"data\text2.txt", add+"\n", Encoding.Default);
             }
             catch
             {

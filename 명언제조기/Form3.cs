@@ -15,7 +15,7 @@ namespace 명언제조기
         public Form3()
         {
             InitializeComponent();
-            StreamReader reader = new StreamReader(@"text1.txt", System.Text.Encoding.Default);
+            StreamReader reader = new StreamReader(@"data\text1.txt", System.Text.Encoding.Default);
             string[] sb = new string[20];
             int i = 0;
             foreach (string s in reader.ReadToEnd().Split('\n'))
@@ -29,7 +29,7 @@ namespace 명언제조기
             {
                 listBox1.Items.Add(sb[j]);
             }
-            StreamReader reader2 = new StreamReader(@"text2.txt", System.Text.Encoding.Default);
+            StreamReader reader2 = new StreamReader(@"data\text2.txt", System.Text.Encoding.Default);
             int k = 0;
             string[] sb2 = new string[20];
             foreach (string s in reader2.ReadToEnd().Split('\n'))

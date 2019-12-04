@@ -19,7 +19,7 @@ namespace 명언제조기
         public Form2()
         {
             InitializeComponent();
-            StreamReader reader = new StreamReader(@"text1.txt", System.Text.Encoding.Default);
+            StreamReader reader = new StreamReader(@"data\text1.txt", System.Text.Encoding.Default);
             string[] sb = new string[20];
             int i = 0;
             foreach (string s in reader.ReadToEnd().Split('\n'))
@@ -28,7 +28,7 @@ namespace 명언제조기
                 i++;
                 if (i == 20) break;
             }
-            StreamReader reader2 = new StreamReader(@"text2.txt", System.Text.Encoding.Default);
+            StreamReader reader2 = new StreamReader(@"data\text2.txt", System.Text.Encoding.Default);
             int k = 0;
             string[] sb2 = new string[20];
             foreach (string s in reader2.ReadToEnd().Split('\n'))
@@ -61,7 +61,7 @@ namespace 명언제조기
 
             PointF TextLocation = new PointF(67f, 32f);
 
-            string imageFilePath = @"C:\Users\BKBaik\source\repos\명언제조기\명언제조기\resultpic\image.bmp";
+            string imageFilePath = @"resultpic\image.bmp";
             Bitmap bitmap = (Bitmap)Image.FromFile(imageFilePath);
 
             using (Graphics graphics = Graphics.FromImage(bitmap))
@@ -72,7 +72,7 @@ namespace 명언제조기
                 }
             }
             MessageBox.Show(imageFilePath+"에 저장되었습니다.","information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            bitmap.Save(@"C:\Users\BKBaik\source\repos\명언제조기\명언제조기\resultpic\image1.bmp");
+            bitmap.Save(@"resultpic\image1.bmp");
             this.Close();
 
         }

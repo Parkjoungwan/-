@@ -38,7 +38,7 @@ namespace 명언제조기
 
         private void 텍스트추가ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string FilePath = @"C:\Users\BKBaik\source\repos\명언제조기\명언제조기\bin\Debug";
+            string FilePath = @"data";
             Process.Start(FilePath);
         }
 
@@ -49,14 +49,13 @@ namespace 명언제조기
 
         private void 사진추가ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string FilePath = @"C:\Users\BKBaik\source\repos\명언제조기\명언제조기\resultpic";
+            string FilePath = @"resultpic";
             Process.Start(FilePath);
         }
 
         private void 텍스트추가도움말ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string FilePath = @"C:\Users\BKBaik\source\repos\명언제조기\명언제조기\bin\Debug";
-            Process.Start(FilePath+@"\help.txt");
+            Process.Start(@"data\help.txt");
         }
     }
 }

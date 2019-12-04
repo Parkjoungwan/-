@@ -85,14 +85,14 @@
             // 사진추가ToolStripMenuItem
             // 
             this.사진추가ToolStripMenuItem.Name = "사진추가ToolStripMenuItem";
-            this.사진추가ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.사진추가ToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.사진추가ToolStripMenuItem.Text = "사진 저장폴더";
             this.사진추가ToolStripMenuItem.Click += new System.EventHandler(this.사진추가ToolStripMenuItem_Click);
             // 
             // 텍스트추가ToolStripMenuItem
             // 
             this.텍스트추가ToolStripMenuItem.Name = "텍스트추가ToolStripMenuItem";
-            this.텍스트추가ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.텍스트추가ToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.텍스트추가ToolStripMenuItem.Text = "텍스트 저장폴더";
             this.텍스트추가ToolStripMenuItem.Click += new System.EventHandler(this.텍스트추가ToolStripMenuItem_Click);
             // 
@@ -107,7 +107,7 @@
             // 텍스트추가도움말ToolStripMenuItem
             // 
             this.텍스트추가도움말ToolStripMenuItem.Name = "텍스트추가도움말ToolStripMenuItem";
-            this.텍스트추가도움말ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.텍스트추가도움말ToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
             this.텍스트추가도움말ToolStripMenuItem.Text = "사용 방법";
             this.텍스트추가도움말ToolStripMenuItem.Click += new System.EventHandler(this.텍스트추가도움말ToolStripMenuItem_Click);
             // 

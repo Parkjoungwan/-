@@ -93,7 +93,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox2);
             this.Name = "Form3";
-            this.Text = "단어추가";
+            this.Text = "단어 확인";
             this.ResumeLayout(false);
             this.PerformLayout();
 
